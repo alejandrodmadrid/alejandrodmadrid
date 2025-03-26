@@ -1,8 +1,11 @@
-# *Alejandro de la Madrid*
-----
-## ***QA Engineer***
-----
+
+![Banner](/assets/img/name_banner.png)
+
+---
+
 *Manual & Automated Testing | aspirant ISTQB | Defect Management*  
+
+----
 
 ### **About me**
 
@@ -119,3 +122,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-de-la-madrid/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandrodmluna@gmail.com)
+
+---
+### *Alejandro de la Madrid* / *QA engineer*
+----
