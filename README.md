@@ -67,6 +67,12 @@
 
 ### **Proyectos | Experiencia Técnica**
 
+# 🔍 QA Engineering Technical Experience
+
+## **Manual & Automation Testing** | TripleTen | 2024 - 2025  
+**Key Projects**: `Urban Maps` • `Urban Grocers` • `Urban Scooter` (Mobile & Web Apps)  
+
+---
 ### 🧪 **Testing Excellence**  
 - Led **end-to-end testing** (smoke, functional, regression, API) across 3+ projects:  
   - 🚨 Identified **30+ critical defects** using:  
